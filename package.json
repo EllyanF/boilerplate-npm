@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Ellyan Fernandes",
 	"license": "BSD",
+	"version": "1.0.0",
 	"description": "Project description goes there",
 	"keywords": [
 		"freecodecamp",
